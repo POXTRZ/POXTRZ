@@ -170,7 +170,13 @@ Actualmente busco oportunidades como **Junior Developer, Intern o Trainee**, don
 
 Sitio web institucional desarrollado para un cliente real utilizando **Next.js, React y TypeScript**.
 
+El proyecto está enfocado en presentar información institucional mediante una interfaz moderna y responsive, utilizando componentes reutilizables, navegación estructurada, información académica y eventos.
+
+**Stack:** `Next.js` · `React` · `TypeScript` · `Tailwind CSS`
+
 [Ver repositorio](https://github.com/POXTRZ/colegio-miguel-hidago)
+
+---
 
 ### Hackathon 2026
 
@@ -178,21 +184,35 @@ Frontend desarrollado de forma colaborativa durante un hackathon para una plataf
 
 Participé en la estructura inicial del frontend, componentes reutilizables e interfaces para información de pacientes, reportes y visualización de datos.
 
+**Stack:** `React` · `TypeScript` · `Vite` · `Zustand` · `Axios` · `Recharts` · `Socket.IO`
+
 [Ver repositorio](https://github.com/POXTRZ/hackathon2026front)
+
+---
 
 ### Changarro Android
 
 Aplicación Android de marketplace desarrollada de forma colaborativa utilizando **Kotlin y Firebase**.
 
+La aplicación incluye autenticación, publicación de productos, búsqueda y filtros, favoritos, perfiles de usuario, mensajería interna e historial de transacciones.
+
 Participé en la integración de Firebase, autenticación, funcionalidades de la aplicación, depuración, pruebas y mejoras de interfaz.
+
+**Stack:** `Kotlin` · `Firebase Authentication` · `Cloud Firestore` · `Android Studio`
 
 [Ver repositorio](https://github.com/POXTRZ/changarro-android)
 
-### Hardware Match
+---
 
-Aplicación web interactiva inspirada en la experiencia de swipe de Tinder para aprender sobre diferentes tipos de memoria y hardware.
+### E-commerce Marketplace Project
 
-[Ver repositorio](https://github.com/POXTRZ/reacttinder)
+Aplicación web académica de comercio electrónico inspirada en grandes plataformas de marketplace.
+
+El proyecto incluye registro e inicio de sesión, catálogo de productos, páginas de detalle, categorías, perfiles de usuario, carrito de compras e integración con base de datos MySQL.
+
+**Stack:** `PHP` · `MySQL` · `HTML` · `CSS` · `JavaScript`
+
+[Ver repositorio](https://github.com/POXTRZ/Proyecto-pagina-tipo-amazon)
 
 ---
 
@@ -206,6 +226,12 @@ Cisco Networking Academy
 
 **Desarrollo Web con CSS, Sass & Bootstrap**  
 Universidad Autónoma de Querétaro
+
+---
+
+## Áreas que estoy explorando
+
+`Desarrollo Backend` · `Cloud Computing` · `Arquitectura de Software` · `Desarrollo Móvil` · `Bases de Datos` · `Inteligencia Artificial`
 
 </details>
 

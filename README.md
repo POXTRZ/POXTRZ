@@ -110,15 +110,15 @@ My contributions included Firebase integration, authentication, application func
 
 ---
 
-### Hardware Match
+### E-commerce Marketplace Project
 
-Interactive web application inspired by Tinder's swipe experience, designed to make learning about computer memory and hardware more interactive.
+Academic e-commerce web application inspired by large marketplace platforms.
 
-The application includes swipe interactions, favorites, advanced filters, hardware comparison, responsive design and local persistence.
+The project includes user registration and login, product catalog, product detail pages, categories, user profiles, shopping cart functionality and MySQL database integration.
 
-**Stack:** `React` · `JavaScript` · `React Router` · `Context API` · `CSS` · `localStorage`
+**Stack:** `PHP` · `MySQL` · `HTML` · `CSS` · `JavaScript`
 
-[View repository](https://github.com/POXTRZ/reacttinder)
+[View repository](https://github.com/POXTRZ/Proyecto-pagina-tipo-amazon)
 
 ---
 
